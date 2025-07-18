@@ -30,9 +30,9 @@ I acted as the **sole backend developer** in a 5‑person team (4 frontend devel
 
 > Add screenshots in the `/images` folder and update paths below:
 
-| Homepage                  | Product Page             | Admin Dashboard         |
+| Homepage                  | Product Page             | Registration Page        |
 |---------------------------|--------------------------|--------------------------|
-| ![](images/homepage.png)  | ![](images/product.png)  | ![](images/admin.png)    |
+| ![](images/homepage.png)  | ![](images/product.png)  | ![](images/registration.png)    |
 
 ---
 
